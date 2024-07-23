@@ -5,5 +5,5 @@
 - 🔭 Interested in software development, full-stack web development and entrepreneurship!
 
 ### Some Tools That I Have Worked With
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css,react,ruby,rails,django,flask,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,js,ts,html,css,react,ruby,rails,django,flask,postgres,sqlite)](https://skillicons.dev)
           
